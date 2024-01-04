@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 gmth6789/think-bb is built on the following main stack:
+
 - [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -20,11 +21,13 @@ gmth6789/think-bb is built on the following main stack:
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 gmth6789/think-bb is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png' alt='Less'/> [Less](http://lesscss.org/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
@@ -43,14 +46,15 @@ gmth6789/think-bb is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gmth6789/think-bb](https://github.com/gmth6789/think-bb)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|75<br/>Tools used|11/09/23 <br/>Report generated|
+|76<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -229,9 +233,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (56)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (57)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (56)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (57)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -267,8 +271,9 @@ Full tech stack [here](/techstack.md)
 |[js-cookie](https://www.npmjs.com/js-cookie)|v2.2.1|09/14/23|gmth6789 |MIT|N/A|
 |[js-md5](https://www.npmjs.com/js-md5)|v0.7.3|09/14/23|gmth6789 |MIT|N/A|
 |[less-loader](https://www.npmjs.com/less-loader)|v4.1.0|09/14/23|gmth6789 |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v0.3.19|09/14/23|gmth6789 |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[](https://github.com/advisories/GHSA-xf5p-87ch-gxw2) (Moderate)|
-|[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|09/14/23|gmth6789 |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v6.1.1|09/14/23|gmth6789 |MIT|N/A|
+|[marked](https://www.npmjs.com/marked)|v0.3.19|09/14/23|gmth6789 |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[](https://github.com/advisories/GHSA-xf5p-87ch-gxw2) (Moderate)|
+|[mockjs](https://www.npmjs.com/mockjs)|v1.1.0|09/14/23|gmth6789 |MIT|[CVE-2023-26158](https://github.com/advisories/GHSA-mh8j-9jvh-gjf6) (High)|
 |[moment](https://www.npmjs.com/moment)|v2.29.1|09/14/23|gmth6789 |MIT|[CVE-2022-24785](https://github.com/advisories/GHSA-8hfj-j24r-96c4) (High)<br/>[CVE-2022-31129](https://github.com/advisories/GHSA-wc69-rhjr-hc9g) (High)|
 |[monaco-editor](https://www.npmjs.com/monaco-editor)|v0.28.1|09/14/23|gmth6789 |MIT|N/A|
 |[node-sass](https://www.npmjs.com/node-sass)|v4.14.1|09/14/23|gmth6789 |MIT|[CVE-2020-24025](https://github.com/advisories/GHSA-r8f7-9pfq-mjmv) (Moderate)|
@@ -295,4 +300,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
