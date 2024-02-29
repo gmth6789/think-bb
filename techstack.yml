@@ -2,7 +2,7 @@ repo_name: gmth6789/think-bb
 report_id: 7d7051bffe34b645aaa942c8b740cdf2
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:21:06+00:00'
+timestamp: '2024-02-29T18:08:43+00:00'
 requested_by: gmth6789
 provider: github
 branch: main
@@ -139,7 +139,7 @@ tools:
   detection_source_url: https://github.com/gmth6789/think-bb
   detection_source: Repo Metadata
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 1.19.1
   license: MIT
